@@ -10,13 +10,14 @@
 }
 
 .container {
-  max-width: 955px;
+  background-image: url(https://source.unsplash.com/random);
+  display: block;
+  max-width: 500px;
   border: 2px solid black;
   margin: auto;
-  height: 60vw;
+  height: 30vw;
   padding: 33px;
   overflow: auto;
-  margin: 23px;
 }
 
 .message {
@@ -46,9 +47,9 @@
 }
 
 #messageInp {
-  width: 92%;
+  width: 52%;
   border: 2px solid black;
-  border-radius: 6px;
+  border-radius: 10px;
   height: 34px;
 }
 .btn {
