@@ -1,4 +1,4 @@
-const socket = io("http://localhost:8000");
+const socket = io("http://13.233.195.225:8000");
 
 const form = document.getElementById("send-container");
 
