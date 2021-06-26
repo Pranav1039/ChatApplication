@@ -10,7 +10,7 @@
 }
 
 .container {
-  background-image: url(https://source.unsplash.com/random);
+  background-image: white;
   display: block;
   max-width: 500px;
   border: 2px solid black;
